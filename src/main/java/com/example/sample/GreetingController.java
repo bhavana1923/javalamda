@@ -1,4 +1,4 @@
-package com.example.samplle;
+package com.example.sample;
 
 
 public class GreetingController {
